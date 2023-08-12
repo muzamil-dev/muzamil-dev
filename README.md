@@ -30,7 +30,7 @@ Hello! 👋 I'm Muzamil, a Computer Science student with a interest in exploring
 
 ### 🤳 Connect with me 
 <a href="https://www.linkedin.com/in/muzamil-dev/">
-  <img align="left" alt="Nicholas" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png?20210220164014" />
+  <img align="left" alt="Muzamil" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png?20210220164014" />
 </a>
 
 <a href="mailto:shamsimuzamil@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
