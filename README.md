@@ -4,17 +4,9 @@
 
 ---
 
-## About Me
+## Top Projects
 
 <img align="right" height="736" alt="image" src="https://github.com/user-attachments/assets/dd69a62c-2cd2-4fc4-86a5-8a80cb5a1f7e" width="160px" />
-
-**Hey, I'm Muzamil.**
-
-Full stack developer and open sourceror.
-
----
-
-## Top Projects
 
 **[DETECT](https://muzamil-dev.github.io/detect.js/)** — Computer vision system that identifies deceptive behavior in real time using nonintrusive eye tracking. Analyzes gaze patterns, fixations, and saccades to flag anomalies — no hardware required.
 `Astro` `Tailwind` `Golang` `Docker` `PostgreSQL` `DigitalOcean`
