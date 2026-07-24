@@ -8,7 +8,7 @@
 
 <img align="right" height="736" alt="image" src="https://github.com/user-attachments/assets/dd69a62c-2cd2-4fc4-86a5-8a80cb5a1f7e" width="160px" />
 
-**[DETECT]([https://muzamil-dev.github.io/detect.js/](https://detect-js-three.vercel.app/))** — Computer vision system that identifies deceptive behavior in real time using nonintrusive eye tracking. Analyzes gaze patterns, fixations, and saccades to flag anomalies — no hardware required.
+**[DETECT](https://detect-js-three.vercel.app/)** — Computer vision system that identifies deceptive behavior in real time using nonintrusive eye tracking. Analyzes gaze patterns, fixations, and saccades to flag anomalies — no hardware required.
 `Astro` `Tailwind` `Golang` `Docker` `PostgreSQL` `DigitalOcean`
  
 **[leave-me-on-a-deserted-island](https://muzamil-dev.github.io/leave-me-on-a-deserted-island/)** — Self-hosted privacy automation platform. Searches data brokers, submits opt-out requests, handles email confirmations, and runs recurring sweeps to keep your personal info off the internet. React dashboard, Express API, Playwright browser automation — fully Dockerized.
